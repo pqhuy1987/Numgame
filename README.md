@@ -1,1 +1,4 @@
-# Numgame
+numgame
+=======
+
+a funny game
