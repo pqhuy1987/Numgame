@@ -114,11 +114,11 @@
     
     if (_gameMode == NGGameModeClassic){
         if (_isHighScore) {
-            textToShare = NSLocalizedString(@"I just have got my new record in game Num Dots!",@"xx");
+            textToShare = NSLocalizedString(@"I just have got my new record in game Wow Dots!",@"xx");
         }
     } else if (_gameMode == NGGameModeTimed) {
         if (_isHighScore) {
-            textToShare = NSLocalizedString(@"I just have got my new high score in game Num Dots!",@"xx");
+            textToShare = NSLocalizedString(@"I just have got my new high score in game Wow Dots!",@"xx");
         }
     }
     

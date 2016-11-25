@@ -86,7 +86,7 @@
             if([SLComposeViewController isAvailableForServiceType:SLServiceTypeFacebook]) {
                 SLComposeViewController *fbSheetOBJ = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeFacebook];
                 
-                [fbSheetOBJ setInitialText:@"I'm playing the  Num Dots Game,it's freaking awesome!"];
+                [fbSheetOBJ setInitialText:@"I'm playing the  Wow Dots Game,it's freaking awesome!"];
                 [self presentViewController:fbSheetOBJ animated:YES completion:nil];
             }
             else
