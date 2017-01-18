@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  numgame
+
+  Created by Sun Xi on 8/18/14.
+  Copyright (c) 2014 Sun Xi. All rights reserved.
+*/
+"Classic Mode"  = "经典模式";
+
+"Time Mode" = "计时模式";
+
+"Step Mode" = "计步模式";
+
+"Endless Mode" = "无尽模式";
+
+"Unlock" = "解锁/恢复";
+
+"Play" = "开始游戏";
+
+"Tip" = "提示";
+
+"Cancel" = "取消";
+
+"Buy" = "购买";
+
+"OK" = "好的";
+
+"Buy failed, please try again!" = "购买失败，请重试！";
+
+"This Mode is temporarily unreachable, wait for a second" = "解锁暂时不可用，请等待";
+
+"New Best Record!" = "新的最佳纪录!";
+"Score at this round" = "本轮得分";
+"Try Again" = "再来一次";
+"Fail!" = "失败!";
+"A really good game to play :)" = "一个好玩的游戏:)";
+"I just have got my new record in game Wow Dots!" = "我刚在Wow Dots获得了我的新的个人纪录，快来挑战我吧";

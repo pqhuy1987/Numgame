@@ -1,0 +1,36 @@
+/*
+ Localizable.strings
+ numgame
+ 
+ Created by Sun Xi on 8/18/14.
+ Copyright (c) 2014 Sun Xi. All rights reserved.
+ */
+"Classic Mode"  = "클래식 모드";
+
+"Time Mode" = "타이밍 모드";
+
+"Step Mode" = "보수계 모드";
+
+"Endless Mode" = "무한 모드";
+
+"Unlock" = "잠금 해제";
+
+"Play" = "플레이";
+
+"Tip" = "팁";
+
+"Cancel" = "취소";
+
+"Buy" = "구매";
+
+"OK" = "좋은";
+
+"Buy failed, please try again!" = "구매 실패, 다시 시도하십시오!";
+
+"This Mode is temporarily unreachable, wait for a second" = "일시적으로 사용할 수 없습니다 잠금 해제, 잠시 기다려주십시오！";
+"New Best Record!" = "새로운 최고 기록을!";
+"Score at this round" = "이번 점수";
+"Try Again" = "한번 더";
+"Fail!" = "실패!";
+"A really good game to play :)" = "하나의 재미있는 게임:)";
+"I just have got my new record in game Wow Dots!" = "방금 Wow Dots 얻은 내 새 개인 기록을 빨리 와서 나 좀 도전 :)";
